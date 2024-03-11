@@ -1,0 +1,11 @@
+Команда,Дія
+hello,Привітання
+close або exit,Вихід
+all,Вивід списку контактів
+show 'name',Вивести контакт 
+add 'name' 'phone',Додати контакт
+change 'name' 'phone',Змінити контакт
+del 'name',Видалити контакт
+add-birthday 'name' 'DD-MM-YYYY',Додати/змінити дату дня народження
+show-birthday 'name',Показати ДН для контакту
+birthdays,Список імен, в кого ДН на наступному тижні

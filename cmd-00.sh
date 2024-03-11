@@ -1,0 +1,2 @@
+clear
+poetry shell
